@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Homework
 uid: 5928fec7-993f-eb85-0b7d-76b0af816321
 ---
