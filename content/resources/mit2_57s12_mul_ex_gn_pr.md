@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6bb74e27-b4f0-7d51-e924-5b62085c1957
 resourcetype: Document
 title: More Efficient Solar Cells via Multi Exciton Generation
 uid: e757ba02-f8d5-bc1b-90c2-0fe9ba88a8c7

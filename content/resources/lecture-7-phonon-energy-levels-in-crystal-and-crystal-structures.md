@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Phonon Energy Levels in Crystal and Crystal Structures'
 uid: 027e0ffc-80f0-7c87-e9e8-620929ff9cd2
 video_files:

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6bb74e27-b4f0-7d51-e924-5b62085c1957
 resourcetype: Document
 title: 'Absorption in Metamaterials: Turning Loss into Gain'
 uid: 93f7f034-e8c7-c0f0-4f2f-da249d1331a9

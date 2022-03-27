@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 4: Solutions to Schr\xF6dinger Equation, Energy Quantization"
 uid: 476a15b3-e6fa-64d6-c854-3306850b6321
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Solutions to Boltzmann Equation: Diffusion Laws'
 uid: d833bc82-6c6c-8853-f3c5-2c29eb2b2b18
 video_files:
