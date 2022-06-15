@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture emphasizes on density of (quantum mechanical) states in electrons, phonons, and photons, elaborating the topic with examples in the 2-D and 3-D structure. It also talks about quantum statistics.
 
 **Instructor:** Prof. Gang Chen
+
+
+

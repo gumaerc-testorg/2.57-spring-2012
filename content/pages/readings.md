@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by lecture session and
+  topic, information on the course textbook, and a list of recommended books to supplement
+  the assigned readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,9 +10,9 @@ title: Readings
 uid: e99067b3-60b9-072e-c48c-a3b7473dd38d
 ---
 
-The following table lists chapters in the course textbook that covers each lecture's materials. These readings are supplemented by assigned papers in the weekly [homework]({{< baseurl >}}/pages/homework).
+The following table lists chapters in the course textbook that covers each lecture's materials. These readings are supplemented by assigned papers in the weekly {{% resource_link 5928fec7-993f-eb85-0b7d-76b0af816321 "homework" %}}.
 
-A list of [recommended books]({{< baseurl >}}/pages/readings#Recommended) to supplement the assigned readings is given below the table.
+A list of {{% resource_link e99067b3-60b9-072e-c48c-a3b7473dd38d "recommended books" "#Recommended" %}} to supplement the assigned readings is given below the table.
 
 Course Textbook
 ---------------

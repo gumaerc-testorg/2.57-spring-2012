@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture continues to explore the repulsive force between particles and surfaces in liquids and learn more on electrokinetics. It also investigates the size effect on phase transition.
 
 **Instructor:** Prof. Gang Chen
+
+
+

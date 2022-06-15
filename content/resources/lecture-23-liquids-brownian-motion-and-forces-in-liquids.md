@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** The lecture first continues discussion on liquids. It investigates transport properties of bulk liquids, and different forces and potentials between particles and surfaces in liquids. It also explores current research in solar-cells.
 
 **Instructor:** Prof. Gang Chen
+
+
+

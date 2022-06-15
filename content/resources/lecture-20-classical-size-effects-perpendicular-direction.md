@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture continues discussion on energy transport when it travels perpendicularly to a film. It also provides solving Boltzmann equation with consideration of classical size effects under circumstances of heat carriers colliding with boundaries.
 
 **Instructor:** Prof. Gang Chen
+
+
+

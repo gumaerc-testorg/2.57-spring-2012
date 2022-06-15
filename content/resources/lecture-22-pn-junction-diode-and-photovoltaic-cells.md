@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture uncovers the basic science of semiconductor devices and solar cells, including p-n junction and photovoltaic effects. Also, it explains the phenomenon of Shockley-Queisser limit.
 
 **Instructor:** Prof. Gang Chen
+
+
+

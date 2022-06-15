@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture provides the example solutions to Schrodinger equation. It also investigates the quantized energy in material waves with different quantum numbers and quantum states, including 1-D quantum well and 2-D quantum wire.
 
 **Instructor:** Prof. Gang Chen
+
+
+

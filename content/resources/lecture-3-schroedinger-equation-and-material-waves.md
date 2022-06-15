@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers topics, including the basic wave characteristics, wave-particle duality in both electromagnetic waves and material waves, and also the fundamentals in the mathematical description of wave mechanics.
 
 **Instructor:** Prof. Gang Chen
+
+
+

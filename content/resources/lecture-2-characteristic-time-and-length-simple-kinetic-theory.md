@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture elaborates on the microscopic pictures of energy carriers. It explains more details on energy transfer, and compares between micro and nanoscale phenomena, including classical size effects and quantum size effects.
 
 **Instructor:** Prof. Gang Chen
+
+
+
