@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 4: Solutions to Schr\xF6dinger Equation, Energy Quantization"
 uid: 476a15b3-e6fa-64d6-c854-3306850b6321
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Description:** This lecture provides the example solutions to Schrodinger equation. It also investigates the quantized energy in material waves with different quantum numbers and quantum states, including 1-D quantum well and 2-D quantum wire.
 
 **Instructor:** Prof. Gang Chen
+

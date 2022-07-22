@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 24: Electrical Double Layer, Size Effects in Phase Change'
 uid: 8ea69d93-2ffe-c403-4e0f-a2a96f780b95
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Description:** This lecture continues to explore the repulsive force between particles and surfaces in liquids and learn more on electrokinetics. It also investigates the size effect on phase transition.
 
 **Instructor:** Prof. Gang Chen
+

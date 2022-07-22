@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Specific Heat and Planck''s Law'
 uid: 9bd253a5-5677-9543-48f3-c30c9c0cf166
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Description:** The discussion on density of states continues with quantum statistical distributions. Students also learn how to apply quantum statistics in examples of photons, phonons, and electrons. Later, it explains the fundamentals in statistical physics.
 
 **Instructor:** Prof. Gang Chen
+

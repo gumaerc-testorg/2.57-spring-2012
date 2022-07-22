@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Energy Transfer by Waves: Plane Waves'
 uid: fa2e027a-1bb3-6598-d9c7-ab377eb7908a
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Description:** The main focus is the microscopic picture of waves. This lecture discusses the energy transport by waves, by using the Maxwell's equations in different electric/magnetic fields and between different interfaces.
 
 **Instructor:** Prof. Gang Chen
+

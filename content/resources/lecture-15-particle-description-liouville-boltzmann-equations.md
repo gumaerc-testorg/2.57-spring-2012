@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Particle Description, Liouville & Boltzmann Equations'
 uid: e6a43f91-f8e8-da5f-2745-e79d2308b2bf
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, students learn to determine how fast particles travel, and topics including wave to particle transition and particle transport processes with Liouville equation and Boltzmann equation. It also commented on the result of first midterm exam.
 
 **Instructor:** Prof. Gang Chen
+

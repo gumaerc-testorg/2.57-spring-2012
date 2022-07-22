@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 3: Schr\xF6dinger Equation and Material Waves"
 uid: 9576b77c-6d6b-cb74-1495-d5fcc0529ebf
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Description:** This lecture covers topics, including the basic wave characteristics, wave-particle duality in both electromagnetic waves and material waves, and also the fundamentals in the mathematical description of wave mechanics.
 
 **Instructor:** Prof. Gang Chen
+

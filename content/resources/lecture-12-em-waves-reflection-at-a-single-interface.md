@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: EM Waves: Reflection at a Single Interface'
 uid: 826b316a-7a5c-666d-a3d7-b7284162e8e8
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, students learn to calculate the energy carried by electromagnetic (EM) waves, and understand how EM waves propagate in a medium and at an interface.
 
 **Instructor:** Prof. Gang Chen
+

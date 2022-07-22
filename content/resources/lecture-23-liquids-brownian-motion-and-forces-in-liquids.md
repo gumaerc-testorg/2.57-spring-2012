@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 23: Liquids: Brownian Motion and Forces in Liquids'
 uid: 3d4b00dc-0975-610c-7ec3-3f9e3f90629a
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Description:** The lecture first continues discussion on liquids. It investigates transport properties of bulk liquids, and different forces and potentials between particles and surfaces in liquids. It also explores current research in solar-cells.
 
 **Instructor:** Prof. Gang Chen
+

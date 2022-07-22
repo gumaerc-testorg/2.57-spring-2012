@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: EM Wave Propagation Through Thin Films & Multilayers'
 uid: 9ed57592-107f-e3a7-4d82-ba9423302a29
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Description:** This lecture provides more details on the application of Snell's Law at one single interface; later, more discussion of the wave propagation in multi-layered structures, for instance thin films. It also gives out information about the first midterm exam.
 
 **Instructor:** Prof. Gang Chen
+

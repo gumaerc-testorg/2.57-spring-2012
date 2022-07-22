@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Electron Transport and Thermoelectric Effects'
 uid: a79051a7-2d62-dc0a-65d8-f869af3be6dd
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Description:** This lecture starts from Boltzmann equation under time relaxation approximation, and discusses more on electron transport process. Later, it explains thermoelectric effects and other fundamentals related to the phenomena.
 
 **Instructor:** Prof. Gang Chen
+
