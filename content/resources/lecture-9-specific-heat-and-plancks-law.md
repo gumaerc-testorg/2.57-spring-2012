@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** The discussion on density of states continues with quantum statistical distributions. Students also learn how to apply quantum statistics in examples of photons, phonons, and electrons. Later, it explains the fundamentals in statistical physics.
 
 **Instructor:** Prof. Gang Chen
-
-
 

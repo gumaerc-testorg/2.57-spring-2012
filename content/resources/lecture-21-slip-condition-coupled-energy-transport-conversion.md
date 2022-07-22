@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** The lecture introduces various approximate ways to tribute all effects to different boundaries/interfaces conditions, and covers topics in energy conversion and coupled transport processes. It also provides details of the second midterm exam.
 
 **Instructor:** Prof. Gang Chen
-
-
 

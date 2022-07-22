@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture investigates the electron's energy levels in solids, including metals, insulators, and semiconductors. It also introduces the Bloch theorem to calculate the periodic potential in crystals.
 
 **Instructor:** Prof. Gang Chen
-
-
 

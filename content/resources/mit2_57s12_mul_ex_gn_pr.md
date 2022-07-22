@@ -6,6 +6,7 @@ file: /courses/2-57-nano-to-macro-transport-processes-spring-2012/e757ba02f8d5bc
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: More Efficient Solar Cells via Multi Exciton Generation
 uid: e757ba02-f8d5-bc1b-90c2-0fe9ba88a8c7
 ---
 This resource contains information related to More Efficient Solar Cells via Multi Exciton Generation.
-

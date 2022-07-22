@@ -6,6 +6,7 @@ file: /courses/2-57-nano-to-macro-transport-processes-spring-2012/93f7f034e8c7c0
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Absorption in Metamaterials: Turning Loss into Gain'
 uid: 93f7f034-e8c7-c0f0-4f2f-da249d1331a9
 ---
 This resource contains information related to Absorption in Metamaterials: Turning Loss into Gain.
-

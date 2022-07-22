@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, students learn to determine how fast particles travel, and topics including wave to particle transition and particle transport processes with Liouville equation and Boltzmann equation. It also commented on the result of first midterm exam.
 
 **Instructor:** Prof. Gang Chen
-
-
 

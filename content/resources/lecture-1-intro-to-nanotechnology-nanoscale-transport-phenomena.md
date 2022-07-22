@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This intro lecture gives an overview of the course and the research in the field of nanoscience and technology. It starts with review of the classical laws related to energy transport processes, and introduces microscopic pictures of energy carriers.
 
 **Instructor:** Prof. Gang Chen
-
-
 

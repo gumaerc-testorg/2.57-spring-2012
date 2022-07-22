@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** The main focus is the microscopic picture of waves. This lecture discusses the energy transport by waves, by using the Maxwell's equations in different electric/magnetic fields and between different interfaces.
 
 **Instructor:** Prof. Gang Chen
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture begins with description of term paper project and discussion on first midterm exam. It covers topics, including the collision term and scattering term in Boltzmann transport equation, relaxation time approximation, and scattering mechanics.
 
 **Instructor:** Prof. Gang Chen
-
-
 

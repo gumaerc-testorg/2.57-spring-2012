@@ -5,6 +5,7 @@ file: /courses/2-57-nano-to-macro-transport-processes-spring-2012/2e4ecaa5cf55f0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Complete 2004 Lecture Notes
 uid: 2e4ecaa5-cf55-f03b-cefb-c8ccce79aed6
 ---
 This resource contains information regarding complete 2004 lecture notes.
-

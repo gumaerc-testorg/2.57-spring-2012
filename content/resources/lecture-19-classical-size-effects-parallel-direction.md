@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, using Boltzmann equation to solve the heat and electrical conduction problem along a two-dimensional thin film is the main focus. It discusses current research in thermoelectrics and further covers the topic of classical size effects.
 
 **Instructor:** Prof. Gang Chen
-
-
 

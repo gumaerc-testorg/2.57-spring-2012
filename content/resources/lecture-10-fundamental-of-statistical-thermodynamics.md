@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** The discussion on statistical physics continues in this lecture. The instructor gives several examples in different ensemble cases, and also an application example in gas molecule.
 
 **Instructor:** Prof. Gang Chen
-
-
 

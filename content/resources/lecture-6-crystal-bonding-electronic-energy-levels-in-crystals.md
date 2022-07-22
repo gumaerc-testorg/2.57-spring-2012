@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture extends the discussion of electronic band structure, crystal structure, crystal bonding, and reciprocal space to 3-D crystals. It also explains the Bragg condition.
 
 **Instructor:** Prof. Gang Chen
-
-
 

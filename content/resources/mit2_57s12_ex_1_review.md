@@ -5,6 +5,7 @@ file: /courses/2-57-nano-to-macro-transport-processes-spring-2012/7197ed88547fa5
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Exam 1 review
 uid: 7197ed88-547f-a55b-2842-954bed3ad79e
 ---
 This resource contains information regarding exam 1 review.
-

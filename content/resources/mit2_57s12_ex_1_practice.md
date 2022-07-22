@@ -5,6 +5,7 @@ file: /courses/2-57-nano-to-macro-transport-processes-spring-2012/9d7a7f49c5d853
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Practice Exam 1
 uid: 9d7a7f49-c5d8-539a-bbba-5afabf1478ee
 ---
 This resource contains information regarding practice exam 1.
-
