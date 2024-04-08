@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding practice exam 2.
 file: /courses/2-57-nano-to-macro-transport-processes-spring-2012/cd5f4bbd2aea59919fd407c316f26e5e_MIT2_57S12_ex_2_practice.pdf
+file_size: 590269
 file_type: application/pdf
 learning_resource_types:
 - Exams

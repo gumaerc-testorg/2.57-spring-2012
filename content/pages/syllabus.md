@@ -20,7 +20,7 @@ Parallel treatments of photons, electrons, phonons, and molecules as energy carr
 
 ## Textbook
 
-Chen, Gang. *Nanoscale Energy Transport and Conversion: A Parallel Treatment of Electrons, Molecules, Phonons, and Photons.* Oxford University Press, 2005. ISBN: 9780195159424. \[Preview with [Google Books](http://books.google.com/books?id=M3n3lUJpYDYC&printsec=frontcover)\]
+Chen, Gang. *Nanoscale Energy Transport and Conversion: A Parallel Treatment of Electrons, Molecules, Phonons, and Photons.* Oxford University Press, 2005. ISBN: 9780195159424. \[Preview with {{% resource_link "7021a8f3-08d0-4c36-86d9-09f1aa60e089" "Google Books" %}}\]
 
 ## Homework
 
