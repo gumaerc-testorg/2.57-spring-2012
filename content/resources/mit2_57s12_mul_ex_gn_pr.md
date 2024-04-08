@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to More Efficient Solar Cells
   via Multi Exciton Generation.
 file: /courses/2-57-nano-to-macro-transport-processes-spring-2012/e757ba02f8d5bc1b90c20fe9ba88a8c7_MIT2_57S12_Mul_Ex_Gn_Pr.pdf
+file_size: 301961
 file_type: application/pdf
 learning_resource_types:
 - Projects
