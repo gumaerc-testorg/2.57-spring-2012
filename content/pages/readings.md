@@ -17,7 +17,7 @@ A list of {{% resource_link e99067b3-60b9-072e-c48c-a3b7473dd38d "recommended bo
 Course Textbook
 ---------------
 
-Chen, Gang. _Nanoscale Energy Transport and Conversion: A Parallel Treatment of Electrons, Molecules, Phonons, and Photons._ Oxford University Press, 2005. ISBN: 9780195159424. \[Preview with {{% resource_link "7021a8f3-08d0-4c36-86d9-09f1aa60e089" "Google Books" %}}\]
+Chen, Gang. _Nanoscale Energy Transport and Conversion: A Parallel Treatment of Electrons, Molecules, Phonons, and Photons._ Oxford University Press, 2005. ISBN: 9780195159424. \[Preview with [Google Books](http://books.google.com/books?id=M3n3lUJpYDYC&printsec=frontcover)\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -345,7 +345,7 @@ Griffiths, D. J. "Quantum Mechanics." In _Introduction to Quantum Mechanics_. Pr
 
 Kittel, C. "Solid-State Physics." In _Introduction to Solid State Physics_. 7th ed. Wiley, 1995. ISBN: 9780471111818.
 
-Born, M., and E. Wolf. "Electromagnetism." In _Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light_. 7th ed. Cambridge University Press, 1999. ISBN: 9780521642224. \[Preview with {{% resource_link "1069b7ae-45ca-452b-bc8c-21238cb8d1bd" "Google Books" %}}\]
+Born, M., and E. Wolf. "Electromagnetism." In _Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light_. 7th ed. Cambridge University Press, 1999. ISBN: 9780521642224. \[Preview with [Google Books](http://books.google.com/books?id=nUHGpfNsGyUC&printsec=frontcover)\]
 
 Sze, S. M. "Electronics." In _Physics of Semiconductor Devices_. 2nd ed. Wiley, 1981. ISBN: 9780471056614.
 
