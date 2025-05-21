@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to Absorption in Metamaterials:
   Turning Loss into Gain.'
-file: /ol-ocw-studio-app/courses/2-57-nano-to-macro-transport-processes-spring-2012/93f7f034e8c7c0f04f2fda249d1331a9_MIT2_57S12_Ab_in_Metamat.pdf
+file: /courses/2-57-nano-to-macro-transport-processes-spring-2012/93f7f034e8c7c0f04f2fda249d1331a9_MIT2_57S12_Ab_in_Metamat.pdf
 file_size: 388179
 file_type: application/pdf
 learning_resource_types:
